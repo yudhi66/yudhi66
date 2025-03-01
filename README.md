@@ -14,6 +14,9 @@ A passionate full-stack developer and cybersecurity enthusiast from India!
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yudhivikram10/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mrx6666666666666)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/yudhi-vikram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yudhi_v_/)
+
+
 
 
 ---
